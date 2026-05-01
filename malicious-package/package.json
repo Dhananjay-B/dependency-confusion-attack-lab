@@ -1,0 +1,11 @@
+{
+  "name": "onemorelens-internal",
+  "version": "1.1.0",
+  "description": "This is test malicious package to be used in dependency confusion attack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
